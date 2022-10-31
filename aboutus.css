@@ -1,0 +1,90 @@
+body{
+    background-image:url("moti6.png");
+    background-repeat: no-repeat;
+	background-size: cover;
+    background-color: #e6d9d9;
+    
+
+}
+
+header{
+    background: #35424a;
+    color:#ffffff;
+    opacity: 0.8;
+    padding-top:30px;
+    min-height: 70px;
+    border-bottom:#e8491d 3px solid;
+}
+header a{
+  color:#ffffff; 
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 16px;
+}
+
+header li{
+  float: left;
+  display: inline;
+  padding: 0 20px 0 20px;
+
+}
+
+
+header #branding {
+    float: left;
+}
+
+
+header #branding h1{
+    margin: 0;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+header nav{
+    float: right;
+    margin-top: 10px;
+
+}
+
+header .highlight, header .current a{
+    color:red;
+    font-weight:bold;
+}
+
+header a:hover{
+    color: #f19191;
+    font-weight:bold;
+}
+
+

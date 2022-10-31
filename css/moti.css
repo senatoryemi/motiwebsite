@@ -1,0 +1,203 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+
+padding: 0;
+margin: 0;
+background-color: #f4f4f4;
+}
+
+.container{
+          width: 80%;
+          margin: auto;
+          overflow: hidden;
+        
+}    
+
+
+ ul{
+    margin: 0;
+    padding: 0;
+}
+.button_1{
+    height: 38px;
+    background:#e8491d;
+    border: 0;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: #ffffff;
+
+}
+.move{
+     color: cornflowerblue;
+   background-color: rgba(180, 187, 180, 0.295);*/
+    background-image: url("moti3.png");
+}
+.move p{
+    background-image: url("moti3.png");
+    background-color: rgba(185, 202, 185, 0.295)
+}
+/*Header*/
+header{
+      background: #35424a;
+      color:#ffffff;
+      padding-top:30px;
+      min-height: 70px;
+      border-bottom:#e8491d 3px solid;
+}
+header a{
+    color:#ffffff; 
+    text-decoration: none;
+    font-size: 16px;
+
+  
+}
+a :hover{
+    color: #c47979;
+
+}
+
+header li{
+    float: left;
+    display: inline;
+    padding: 0 20px 0 20px;
+
+}
+
+header #branding {
+    float: left;
+}
+
+
+header #branding h1{
+    margin: 0;
+    font-style: italic;
+    letter-spacing: 0.2em;
+  
+}
+
+
+header nav{
+    float: right;
+    margin-top: 10px;
+
+}
+
+header .highlight, header .current a{
+    color:red;
+    font-weight:bold;
+}
+
+header a:hover{
+    color: #f19191;
+    font-weight:bold;
+}
+
+.{
+    width: 80%;
+    margin: auto;
+    overflow:initial;
+    background-color:blue;
+
+
+}
+
+/*showcase*/
+#showcase{
+    width: 100%;
+    height: 50vh;
+    padding-bottom: 25px;
+    padding-top:2px;
+    margin-top:1px;
+    background-position:initial;
+    background-size: cover;
+    background-repeat: no-repeat 0 -400px; ;
+   
+    text-align:center;
+    color: black solid;
+
+
+}
+
+#showcase h1{
+    font-size: 55px;
+    margin-top:30px;
+    margin-bottom:10px;
+    padding: 14px 10px;
+
+}
+
+
+    #showcase p{
+        font-size: 25px;
+        padding: 20px;
+
+    }
+     #newsletter{
+         padding: 15px;
+         color:#ffffff;
+         background:#35424a
+     }
+
+     #newsletter h1{
+          float: left;
+     }
+
+     #newsletter form{
+         float: right;
+         margin-top: 15px;
+
+     }
+
+     newsletter input[type="email"]{
+         padding: 4px;
+         height: 250px;
+         width: 50px;
+     }
+
+     .container2 .box{
+          padding:30px ;
+          padding: 30px;
+         width: 27.7%;
+     }
+
+     .container2 .box p {
+         text-align: justify;
+     }
+
+     .container2 {
+         display: flex;
+         margin: 20px auto;
+         width: 80%;
+         flex-wrap: wrap;
+         
+     }
+
+     #boxes .box img{
+         width: 200px;
+     }
+
+     footer{
+         padding:20px;
+         margin-top: 20px;
+         color: #ffffff;
+         background-color: #e8491d;
+         text-align: center;
+
+     }
+
+
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+

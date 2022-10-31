@@ -1,0 +1,64 @@
+body{
+    padding-top:40px;
+    padding-bottom:30px;
+    background:url(https://subtlepatterns.com/patterns/food.png);
+    font-family: 'Lato', sans-serif;
+}
+.basket-handle{
+    height: 100px;
+    background: #f8f8f8;
+    opacity:.95;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+    border: 1px solid #fdfdfd;
+    .basket-handle-hole{
+        background:url(https://subtlepatterns.com/patterns/food.png);
+        height:50px;
+        position:relative;
+        top:35px;
+        border-radius: 20px;
+        border: 1px solid #fdfdfd;
+    }
+}
+.shop{
+    background: #f8f8f8;
+    padding: 30px;
+    border: 1px solid #fdfdfd;
+    border-radius: 25px;
+    opacity:.95;
+    box-shadow: 2px 2px rgba(238, 238, 238, 0.6);
+}
+#delivery-button{
+     display:block; 
+    -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -moz-transform: matrix(-1, 0, 0, 1, 0, 0);
+    -o-transform: matrix(-1, 0, 0, 1, 0, 0);
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+} 
+.uk-panel-box{
+    background:#fff;
+    box-shadow: 2px 2px rgba(238, 238, 238, .8);
+    position:relative;
+    overflow: hidden;
+    .teaser-price{
+        background: #efe;
+        opacity: .85;
+        position: relative;
+        bottom: 44px;
+        right: 5px;
+        font-size: 2em;
+        padding: 5px;
+        border-top-left-radius: 5px;
+        border-top-right-radius: 5px;
+    }
+  .teaser-name{
+        position:absolute;
+  }
+}
+  
+  
+  
+  
+  
+  
+  
